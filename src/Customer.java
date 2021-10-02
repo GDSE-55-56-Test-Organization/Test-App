@@ -12,4 +12,7 @@
  * @since 18-Sep-21
  */
 public class Customer {
+    public static void main(String[] args) {
+        System.out.println("Login Created...");
+    }
 }
